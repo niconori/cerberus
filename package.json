@@ -1,0 +1,30 @@
+{
+  "name": "cerberus",
+  "version": "0.0.1",
+  "description": "Cisco ASDM Port to Electron",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/niconori/cerberus.git"
+  },
+  "keywords": [
+    "Electron",
+    "Cisco",
+    "ASDM",
+    "ASA",
+    "Firepower"
+  ],
+  "author": "Nico Nori",
+  "license": "CC0-1.0",
+  "devDependencies": {
+    "electron": "^7.1.7"
+  },
+  "bugs": {
+    "url": "https://github.com/niconori/cerberus/issues"
+  },
+  "homepage": "https://github.com/niconori/cerberus#readme",
+  "dependencies": {}
+}
